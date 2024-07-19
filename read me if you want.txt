@@ -1,0 +1,3 @@
+https://design-project-429815.df.r.appspot.com/
+
+$ gcloud sql connect decorationdb --user=root --quietgcloud
